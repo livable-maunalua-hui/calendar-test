@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Netlify local state (created by the Netlify CLI)
+.netlify/
+
+# Env files (in case you ever add secrets)
+.env
+.env.*
+
+# Node, only matters if you add tooling later
+node_modules/
